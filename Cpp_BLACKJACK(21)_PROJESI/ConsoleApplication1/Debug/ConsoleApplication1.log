@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Cpp_BLACKJACK(21)_PROJESI.cpp
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(105,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(121,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(132,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(228,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(248,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(254,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(410,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(416,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(423,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(426,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(433,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(445,39): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(461,39): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(522,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(528,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(566,35): warning C4244: 'başlatılıyor': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(618,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\ConsoleApplication1\Cpp_BLACKJACK(21)_PROJESI.cpp(155): warning C4715: 'Tip_Yazdir': tüm denetim yolları değer döndürmez
+  ConsoleApplication1.vcxproj -> C:\Users\ozand\OneDrive\Masaüstü\Cpp_BLACKJACK(21)_PROJESI\Debug\Cpp_BLACKJACK(21)_PROJESI.exe
